@@ -1,7 +1,6 @@
 # CSV-Find-and-Replace
 find and replace all the items in a column based on a lookup table. Inputs are the column and table
 
-<<<<<<< HEAD
 ## STEP 1
 create a csv file (lookup table) that looks like this using the same heading names
 
